@@ -1,0 +1,4 @@
+getkey
+colorama
+xlrd
+pyttsx
