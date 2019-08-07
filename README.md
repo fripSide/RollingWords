@@ -25,6 +25,10 @@ Roll all words or roll hard words(1/2)?
 Save and exit!
 ```
 
+3.换书
+python RollingWords.py -c
+或者删掉record.json
+
 #### 功能
 1. 按h将单词加入复习名单 
 2. [TODO] 练习模式，随机出题 
