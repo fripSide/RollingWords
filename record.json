@@ -1,8 +1,26 @@
 {
-    "current": "再要你命3000自动计算版.xlsx", 
+    "current": "托福核心词汇.xls", 
     "books": {
         "再要你命3000自动计算版.xlsx": {
-            "normal_pos": 13, 
+            "normal_pos": 3071, 
+            "hard_list": []
+        }, 
+        "托福核心词汇.xls": {
+            "normal_pos": 36, 
+            "hard_pos": 9, 
+            "hard_list": [
+                4, 
+                8, 
+                15, 
+                16, 
+                19, 
+                24, 
+                25, 
+                28
+            ]
+        }, 
+        "托福基础听力词汇.xls": {
+            "normal_pos": 3, 
             "hard_list": []
         }
     }
